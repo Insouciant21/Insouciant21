@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Insouciant21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Insouciant21)
+[![Insouciant21's GitHub stats](https://github-readme-stats.vercel.app/api?username=Insouciant21)](https://moeblue.top)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insouciant21&layout=compact)](https://github.com/Insouciant21)
