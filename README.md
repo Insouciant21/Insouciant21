@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Insouciant21)](https://github.com/Insouciant21)
 
-[![Insouciant21's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=willianro](https://github.com/Insouciant21)
+[![Insouciant21's wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Insouciant21)](https://github.com/Insouciant21)
+
